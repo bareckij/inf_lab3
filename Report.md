@@ -12,4 +12,7 @@
 Адрес Машины А: 192.168.0.100
 Адрес Машины Б: 192.168.0.102
 Адрес Машины В: 192.168.0.104
+![{E3F9C701-C67B-4BDD-B0CB-EC900EB9AD77}](https://github.com/user-attachments/assets/4da0f9c8-fb75-46b7-9af4-a6ab01e9357d)
 7. Далее проверяю есть ли подключение к интернету с помощью ping 8.8.8.8
+![{16FC66EC-CCC4-404D-8A7C-2193D73CB740}](https://github.com/user-attachments/assets/f8bd200a-c2fc-40f1-9040-9a4f68db9347)
+8. 
