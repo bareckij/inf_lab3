@@ -15,4 +15,10 @@
 ![{E3F9C701-C67B-4BDD-B0CB-EC900EB9AD77}](https://github.com/user-attachments/assets/4da0f9c8-fb75-46b7-9af4-a6ab01e9357d)
 7. Далее проверяю есть ли подключение к интернету с помощью ping 8.8.8.8
 ![{16FC66EC-CCC4-404D-8A7C-2193D73CB740}](https://github.com/user-attachments/assets/f8bd200a-c2fc-40f1-9040-9a4f68db9347)
-8. 
+8.Далее запрещаю доступ из Б в В с помощью пакета iptables, который установил с помощью sudo apt install iptables
+![{E3F9C701-C67B-4BDD-B0CB-EC900EB9AD77}](https://github.com/user-attachments/assets/8cdae037-842c-48b5-a7f7-58b973c23246)
+9. Проверяю подключение между машинами 
+![{BA82C3F6-172F-45ED-8D8D-11D7C3660571}](https://github.com/user-attachments/assets/0033d885-0822-459b-be70-ac5371907a76)
+![{08A93331-5F92-42AF-8F24-71DE4647D3E2}](https://github.com/user-attachments/assets/4f7654bd-1fa7-4bf1-8d18-e80875720662)
+Как видно из скриншотов доступа из Б в В нет. 
+
